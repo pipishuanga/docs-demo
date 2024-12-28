@@ -27,14 +27,6 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'test', link: '/test' }
         ]
-      },
-      {
-        text: '第二列',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'test', link: '/test' }
-        ]
       }
     ],
 
